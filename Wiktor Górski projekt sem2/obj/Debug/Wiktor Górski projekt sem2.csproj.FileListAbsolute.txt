@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\bin\Debug\Wiktor Górski projekt sem2.exe.config
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\bin\Debug\Wiktor Górski projekt sem2.exe
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\bin\Debug\Wiktor Górski projekt sem2.pdb
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor_Górski_projekt_sem2.Form1.resources
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor_Górski_projekt_sem2.Properties.Resources.resources
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.exe
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.pdb
+C:\Users\User\source\repos\Wiktor Górski projekt sem2\obj\Debug\Wiktor_Górski_projekt_sem2.Form2.resources
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\bin\Debug\Wiktor Górski projekt sem2.exe.config
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\bin\Debug\Wiktor Górski projekt sem2.exe
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\bin\Debug\Wiktor Górski projekt sem2.pdb
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor_Górski_projekt_sem2.Form1.resources
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor_Górski_projekt_sem2.Form2.resources
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor_Górski_projekt_sem2.Properties.Resources.resources
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.exe
+C:\Users\User\Desktop\visual zadanka\projekt na pp\SEM-2\Wiktor Górski projekt sem2\obj\Debug\Wiktor Górski projekt sem2.pdb
